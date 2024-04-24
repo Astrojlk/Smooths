@@ -1,0 +1,20 @@
+﻿[Settings]
+OnOffKey = Insert
+SensitivityX = 8000
+SensitivityY = 5000
+
+[Controller]
+ButtonLeftThumb = D8
+ButtonRightThumb = D9
+ButtonLeftShoulder = Q
+ButtonRightShoulder = E
+ButtonY = D2
+ButtonX = F
+ButtonA = Space
+ButtonB = C
+ButtonUp = Capital
+ButtonRight = D3
+ButtonLeft = B
+ButtonDown = Tab
+ButtonBack = M
+ButtonStart = Escape
